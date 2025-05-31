@@ -1,0 +1,301 @@
+Age,Gender,Ethnicity,Glucose,HbA1c,Comorbidities,Diet Score,Activity Level,Healthcare Access,Diet Plan,Breakfast,Lunch,Dinner
+27,Female,White,58,4.2,"Weight Gain, Hypertension, Heart Disease, Kidney Disease",17.4,Sedentary,Low,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.",Pancakes made with oats and served with fresh fruit.,Grilled turkey sandwich with a side of vegetable soup.,Vegetable curry with tofu and brown rice.
+45,Female,White,89,5.3,"Hypertension, Kidney Disease",18.0,Lightly Active,Low,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.","Omelet with mushrooms, onions, and whole-grain bread.",Brown rice with grilled chicken and steamed vegetables.,Shrimp stir-fry with wild rice and mixed veggies.
+29,Male,Black,107,5.9,"Weight Gain, Kidney Disease",17.3,Sedentary,Low,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.","Omelet with mushrooms, onions, and whole-grain bread.","Quinoa salad with chickpeas, cucumber, and feta cheese.",Baked chicken with mashed sweet potatoes and green beans.
+30,Female,White,91,5.3,"Weight Gain, Kidney Disease",16.3,Sedentary,High,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.","Omelet with mushrooms, onions, and whole-grain bread.",Brown rice with grilled chicken and steamed vegetables.,Shrimp stir-fry with wild rice and mixed veggies.
+29,Male,White,97,5.5,"Weight Gain, Hypertension, Heart Disease, Kidney Disease",14.8,Lightly Active,High,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.",Pancakes made with oats and served with fresh fruit.,Baked sweet potato with black bean salsa and avocado.,Baked chicken with mashed sweet potatoes and green beans.
+51,Male,White,130,6.7,Weight Gain,19.0,Extremely Active,High,"Breakfast: Smoothie with spinach, berries, and protein powder.
+                      Mid-Morning Snack: Peanut butter with celery sticks.
+                      Lunch: Lean beef with lentils and salad.
+                      Afternoon Snack: Boiled eggs with hummus.
+                      Dinner: Baked salmon with brown rice and sautéed greens.
+                      Dessert: Fresh fruit bowl.",Scrambled eggs with whole-grain toast and avocado.,Chickpea salad with feta cheese and olive oil dressing.,Baked fish with quinoa and roasted vegetables.
+58,Male,White,56,4.1,"Diabetes, Acne, Hypertension, Kidney Disease",12.8,Extremely Active,Medium,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.","Greek yogurt with honey, walnuts, and mixed fruit.",Brown rice with grilled chicken and steamed vegetables.,Shrimp stir-fry with wild rice and mixed veggies.
+22,Female,Other,105,5.8,"Weight Gain, Hypertension, Heart Disease, Kidney Disease",11.1,Moderately Active,Medium,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.",Whole-wheat toast with peanut butter and banana.,Grilled turkey sandwich with a side of vegetable soup.,Shrimp stir-fry with wild rice and mixed veggies.
+50,Female,White,70,4.6,"Weight Gain, Kidney Disease",16.8,Moderately Active,Medium,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.",Pancakes made with oats and served with fresh fruit.,Baked sweet potato with black bean salsa and avocado.,Vegetable curry with tofu and brown rice.
+50,Male,White,113,6.1,"Diabetes, Acne, Hypertension, Kidney Disease",15.4,Extremely Active,Medium,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.","Greek yogurt with honey, walnuts, and mixed fruit.",Baked sweet potato with black bean salsa and avocado.,Grilled salmon with roasted sweet potatoes and steamed broccoli.
+43,Male,White,70,4.6,"Weight Gain, Kidney Disease",19.2,Very Active,Low,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.","Greek yogurt with honey, walnuts, and mixed fruit.",Grilled turkey sandwich with a side of vegetable soup.,Baked chicken with mashed sweet potatoes and green beans.
+37,Male,White,111,6.0,"Weight Gain, Hypertension, Heart Disease",12.6,Very Active,Medium,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.","Smoothie bowl with granola, berries, and almond butter.",Brown rice with grilled chicken and steamed vegetables.,Lean beef stir-fry with quinoa and mixed greens.
+41,Male,White,81,5.0,"Diabetes, Acne, Weight Loss, Hypertension, Heart Disease, Kidney Disease",10.9,Extremely Active,High,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.",Whole-wheat toast with peanut butter and banana.,"Quinoa salad with chickpeas, cucumber, and feta cheese.",Vegetable curry with tofu and brown rice.
+46,Female,White,85,5.1,"Hypertension, Heart Disease, Kidney Disease",18.6,Moderately Active,High,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.","Greek yogurt with honey, walnuts, and mixed fruit.","Quinoa salad with chickpeas, cucumber, and feta cheese.",Lean beef stir-fry with quinoa and mixed greens.
+33,Female,White,134,6.8,"Hypertension, Kidney Disease",12.7,Extremely Active,Medium,"Breakfast: Smoothie with spinach, berries, and protein powder.
+                      Mid-Morning Snack: Peanut butter with celery sticks.
+                      Lunch: Lean beef with lentils and salad.
+                      Afternoon Snack: Boiled eggs with hummus.
+                      Dinner: Baked salmon with brown rice and sautéed greens.
+                      Dessert: Fresh fruit bowl.",Greek yogurt with chia seeds and blueberries.,Grilled chicken with sweet potatoes and green beans.,Stir-fried tofu with mixed greens and brown rice.
+45,Female,Black,109,5.9,"Diabetes, Acne, Hypertension, Heart Disease",18.3,Moderately Active,Medium,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.",Pancakes made with oats and served with fresh fruit.,Grilled turkey sandwich with a side of vegetable soup.,Grilled salmon with roasted sweet potatoes and steamed broccoli.
+43,Male,White,81,5.0,"Hypertension, Kidney Disease",12.2,Extremely Active,Medium,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.","Smoothie bowl with granola, berries, and almond butter.",Whole wheat pasta with lean beef and spinach.,Baked chicken with mashed sweet potatoes and green beans.
+52,Male,White,90,5.3,"Weight Gain, Hypertension, Heart Disease",11.7,Sedentary,High,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.",Whole-wheat toast with peanut butter and banana.,Grilled turkey sandwich with a side of vegetable soup.,Vegetable curry with tofu and brown rice.
+38,Female,White,97,5.5,Kidney Disease,17.0,Moderately Active,High,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.","Omelet with mushrooms, onions, and whole-grain bread.",Whole wheat pasta with lean beef and spinach.,Vegetable curry with tofu and brown rice.
+32,Female,Black,112,6.1,"Diabetes, Acne, Hypertension, Kidney Disease",15.7,Extremely Active,High,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.",Whole-wheat toast with peanut butter and banana.,Brown rice with grilled chicken and steamed vegetables.,Grilled salmon with roasted sweet potatoes and steamed broccoli.
+40,Male,White,113,6.1,Weight Gain,11.2,Sedentary,High,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.","Smoothie bowl with granola, berries, and almond butter.",Baked sweet potato with black bean salsa and avocado.,Lean beef stir-fry with quinoa and mixed greens.
+31,Male,Other,99,5.6,"Weight Gain, Kidney Disease",16.0,Extremely Active,High,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.",Pancakes made with oats and served with fresh fruit.,"Quinoa salad with chickpeas, cucumber, and feta cheese.",Lean beef stir-fry with quinoa and mixed greens.
+51,Male,White,87,5.2,"Hypertension, Heart Disease, Kidney Disease",17.8,Very Active,High,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.","Greek yogurt with honey, walnuts, and mixed fruit.",Grilled turkey sandwich with a side of vegetable soup.,Vegetable curry with tofu and brown rice.
+23,Female,White,110,6.0,"Hypertension, Heart Disease",10.0,Moderately Active,High,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.","Smoothie bowl with granola, berries, and almond butter.",Baked sweet potato with black bean salsa and avocado.,Baked chicken with mashed sweet potatoes and green beans.
+29,Male,White,64,4.4,"Diabetes, Acne, Hypertension, Heart Disease",15.8,Lightly Active,High,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.","Greek yogurt with honey, walnuts, and mixed fruit.",Brown rice with grilled chicken and steamed vegetables.,Grilled salmon with roasted sweet potatoes and steamed broccoli.
+32,Male,White,134,6.8,Weight Gain,15.8,Lightly Active,Low,"Breakfast: Smoothie with spinach, berries, and protein powder.
+                      Mid-Morning Snack: Peanut butter with celery sticks.
+                      Lunch: Lean beef with lentils and salad.
+                      Afternoon Snack: Boiled eggs with hummus.
+                      Dinner: Baked salmon with brown rice and sautéed greens.
+                      Dessert: Fresh fruit bowl.",Boiled eggs with hummus and a side of mixed nuts.,Chickpea salad with feta cheese and olive oil dressing.,Salmon with roasted sweet potatoes and steamed kale.
+59,Male,White,100,5.6,"Diabetes, Acne, Weight Loss, Hypertension, Heart Disease, Kidney Disease",10.5,Very Active,High,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.","Omelet with mushrooms, onions, and whole-grain bread.",Grilled turkey sandwich with a side of vegetable soup.,Grilled salmon with roasted sweet potatoes and steamed broccoli.
+32,Female,White,105,5.8,"Diabetes, Acne, Weight Loss, Hypertension, Heart Disease, Kidney Disease",11.9,Sedentary,Low,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.",Pancakes made with oats and served with fresh fruit.,Baked sweet potato with black bean salsa and avocado.,Grilled salmon with roasted sweet potatoes and steamed broccoli.
+33,Male,White,80,4.9,"Weight Gain, Hypertension, Heart Disease",19.0,Extremely Active,Medium,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.",Whole-wheat toast with peanut butter and banana.,Whole wheat pasta with lean beef and spinach.,Shrimp stir-fry with wild rice and mixed veggies.
+18,Female,White,100,5.6,Kidney Disease,16.1,Very Active,Medium,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.","Smoothie bowl with granola, berries, and almond butter.","Quinoa salad with chickpeas, cucumber, and feta cheese.",Grilled salmon with roasted sweet potatoes and steamed broccoli.
+53,Male,Other,114,6.1,"Diabetes, Acne, Weight Gain, Hypertension, Heart Disease",11.5,Very Active,Medium,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.","Greek yogurt with honey, walnuts, and mixed fruit.",Baked sweet potato with black bean salsa and avocado.,Grilled salmon with roasted sweet potatoes and steamed broccoli.
+32,Male,White,125,6.5,"Hypertension, Heart Disease",14.5,Sedentary,Low,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.",Pancakes made with oats and served with fresh fruit.,Brown rice with grilled chicken and steamed vegetables.,Shrimp stir-fry with wild rice and mixed veggies.
+23,Male,White,140,7.0,"Diabetes, Acne, Weight Gain, Hypertension, Heart Disease, Kidney Disease",16.5,Sedentary,Medium,"Breakfast: Smoothie with spinach, berries, and protein powder.
+                      Mid-Morning Snack: Peanut butter with celery sticks.
+                      Lunch: Lean beef with lentils and salad.
+                      Afternoon Snack: Boiled eggs with hummus.
+                      Dinner: Baked salmon with brown rice and sautéed greens.
+                      Dessert: Fresh fruit bowl.",Greek yogurt with chia seeds and blueberries.,"Grilled salmon, quinoa, and steamed broccoli.",Stir-fried tofu with mixed greens and brown rice.
+26,Female,White,108,5.9,"Diabetes, Acne, Weight Loss, Hypertension, Heart Disease, Kidney Disease",19.2,Lightly Active,Low,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.","Smoothie bowl with granola, berries, and almond butter.",Baked sweet potato with black bean salsa and avocado.,Vegetable curry with tofu and brown rice.
+28,Male,White,111,6.0,Kidney Disease,13.3,Very Active,Low,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.","Omelet with mushrooms, onions, and whole-grain bread.",Grilled turkey sandwich with a side of vegetable soup.,Shrimp stir-fry with wild rice and mixed veggies.
+30,Male,White,104,5.8,"Hypertension, Kidney Disease",15.0,Extremely Active,Low,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.",Pancakes made with oats and served with fresh fruit.,Whole wheat pasta with lean beef and spinach.,Baked chicken with mashed sweet potatoes and green beans.
+18,Male,White,93,5.4,"Hypertension, Kidney Disease",10.0,Very Active,High,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.","Smoothie bowl with granola, berries, and almond butter.",Whole wheat pasta with lean beef and spinach.,Shrimp stir-fry with wild rice and mixed veggies.
+34,Male,White,84,5.1,Weight Gain,16.9,Moderately Active,Medium,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.","Omelet with mushrooms, onions, and whole-grain bread.",Baked sweet potato with black bean salsa and avocado.,Baked chicken with mashed sweet potatoes and green beans.
+25,Female,White,146,7.2,"Diabetes, Acne, Weight Gain, Hypertension, Heart Disease, Kidney Disease",15.2,Very Active,Medium,"Breakfast: Smoothie with spinach, berries, and protein powder.
+                      Mid-Morning Snack: Peanut butter with celery sticks.
+                      Lunch: Lean beef with lentils and salad.
+                      Afternoon Snack: Boiled eggs with hummus.
+                      Dinner: Baked salmon with brown rice and sautéed greens.
+                      Dessert: Fresh fruit bowl.","Smoothie with spinach, berries, and protein powder.","Grilled salmon, quinoa, and steamed broccoli.",Salmon with roasted sweet potatoes and steamed kale.
+54,Female,Black,140,7.0,"Diabetes, Acne, Weight Loss, Hypertension, Heart Disease, Kidney Disease",15.6,Sedentary,Medium,"Breakfast: Smoothie with spinach, berries, and protein powder.
+                      Mid-Morning Snack: Peanut butter with celery sticks.
+                      Lunch: Lean beef with lentils and salad.
+                      Afternoon Snack: Boiled eggs with hummus.
+                      Dinner: Baked salmon with brown rice and sautéed greens.
+                      Dessert: Fresh fruit bowl.",Greek yogurt with chia seeds and blueberries.,Chickpea salad with feta cheese and olive oil dressing.,Grilled turkey with mashed cauliflower and asparagus.
+37,Male,White,95,5.5,"Diabetes, Acne, Weight Loss, Hypertension, Heart Disease, Kidney Disease",17.2,Sedentary,Medium,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.","Smoothie bowl with granola, berries, and almond butter.","Quinoa salad with chickpeas, cucumber, and feta cheese.",Vegetable curry with tofu and brown rice.
+45,Male,Black,71,4.6,"Diabetes, Acne, Weight Gain, Hypertension, Heart Disease",14.1,Lightly Active,Low,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.",Pancakes made with oats and served with fresh fruit.,Brown rice with grilled chicken and steamed vegetables.,Lean beef stir-fry with quinoa and mixed greens.
+48,Male,White,111,6.0,"Diabetes, Acne, Hypertension, Heart Disease",17.1,Sedentary,Low,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.","Greek yogurt with honey, walnuts, and mixed fruit.",Whole wheat pasta with lean beef and spinach.,Grilled salmon with roasted sweet potatoes and steamed broccoli.
+72,Female,White,130,6.7,"Hypertension, Kidney Disease",18.7,Sedentary,High,"Breakfast: Smoothie with spinach, berries, and protein powder.
+                      Mid-Morning Snack: Peanut butter with celery sticks.
+                      Lunch: Lean beef with lentils and salad.
+                      Afternoon Snack: Boiled eggs with hummus.
+                      Dinner: Baked salmon with brown rice and sautéed greens.
+                      Dessert: Fresh fruit bowl.",Boiled eggs with hummus and a side of mixed nuts.,Tofu stir-fry with brown rice and steamed vegetables.,Stir-fried tofu with mixed greens and brown rice.
+45,Male,White,118,6.3,"Weight Gain, Hypertension, Heart Disease",16.0,Moderately Active,High,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.","Smoothie bowl with granola, berries, and almond butter.",Whole wheat pasta with lean beef and spinach.,Lean beef stir-fry with quinoa and mixed greens.
+45,Male,White,94,5.4,"Hypertension, Kidney Disease",19.9,Moderately Active,Medium,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.","Omelet with mushrooms, onions, and whole-grain bread.",Whole wheat pasta with lean beef and spinach.,Shrimp stir-fry with wild rice and mixed veggies.
+45,Male,Black,83,5.0,"Diabetes, Acne, Hypertension, Heart Disease",16.7,Moderately Active,Low,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.","Smoothie bowl with granola, berries, and almond butter.",Brown rice with grilled chicken and steamed vegetables.,Shrimp stir-fry with wild rice and mixed veggies.
+20,Female,Black,90,5.3,"Weight Gain, Hypertension, Heart Disease, Kidney Disease",12.9,Lightly Active,Low,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.","Omelet with mushrooms, onions, and whole-grain bread.",Baked sweet potato with black bean salsa and avocado.,Baked chicken with mashed sweet potatoes and green beans.
+64,Male,White,104,5.8,"Hypertension, Heart Disease, Kidney Disease",18.9,Extremely Active,Medium,"Breakfast: Protein smoothie with oats, berries, and almond milk.
+                      Mid-Morning Snack: Energy bar with seeds and nuts.
+                      Lunch: Brown rice with grilled chicken and steamed vegetables.
+                      Afternoon Snack: Peanut butter with whole wheat crackers.
+                      Dinner: Lean beef stir-fry with quinoa and mixed greens.
+                      Dessert: Cottage cheese with fresh mango.","Smoothie bowl with granola, berries, and almond butter.",Baked sweet potato with black bean salsa and avocado.,Shrimp stir-fry with wild rice and mixed veggies.
+45,Male,White,136,6.9,"Diabetes, Acne, Weight Gain, Hypertension, Heart Disease",18.0,Very Active,High,"Breakfast: Smoothie with spinach, berries, and protein powder.
+                      Mid-Morning Snack: Peanut butter with celery sticks.
+                      Lunch: Lean beef with lentils and salad.
+                      Afternoon Snack: Boiled eggs with hummus.
+                      Dinner: Baked salmon with brown rice and sautéed greens.
+                      Dessert: Fresh fruit bowl.",Scrambled eggs with whole-grain toast and avocado.,"Grilled salmon, quinoa, and steamed broccoli.",Salmon with roasted sweet potatoes and steamed kale.
